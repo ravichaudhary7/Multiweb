@@ -7,8 +7,8 @@ var index=0;
 
 // ======storage======
 var storage=[{imagesource:"1.jpg"},
-{imagesource:".2.jpg"},
-{imagesource:".3.jpg"}
+{imagesource:"2.jpg"},
+{imagesource:"3.jpg"}
 ]
 // =======previous=======
 previous.addEventListener("click",()=>{
